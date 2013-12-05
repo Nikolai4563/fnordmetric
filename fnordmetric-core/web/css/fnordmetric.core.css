@@ -1,6 +1,6 @@
 body, html{ height:100%; padding:0px;}
 body {
-  background: url('img/head.png') 0 -21px repeat-x fixed #2E3133;
+  background: url('img/head.png') 0 -21px repeat-x fixed #333333;
   color:#333;
   margin:0;
   padding:0;
